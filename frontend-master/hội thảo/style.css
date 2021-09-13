@@ -1,0 +1,22 @@
+
+.page-content,
+.entry-content {
+    margin: 2em 0 0;
+    line-height: 1.7;
+    word-wrap: break-word;
+    -ms-word-wrap: break-word;
+}
+.erf-container .erf-form .form-group,
+.erf-container .erf-form .fb-rich-text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    white-space: normal;
+    margin: 0
+}
+.erf-container,
+.erf-container .erf-form * {
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box
+}
